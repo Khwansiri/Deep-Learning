@@ -20,6 +20,6 @@ The website “Our World in Data” collects the statistics on the coronavirus p
 March 22nd to May 4th, 2020
 
 ## Project design:
-**Part 1:** Create binary classification model to label the type of daily tweets 
-**Part 2:** Create multiple linear regression model to observe the relationship between twitter trends, global mobility reports and number of COVID-19 new cases     
+**Part 1:** Create binary classification model to label the type of daily tweets    
+**Part 2:** Create multiple linear regression model to observe the relationship between twitter trends, global mobility reports and number of COVID-19 new cases         
 **Part 3:** Attempt to use long short-term memory networks to predict COVID-19 new cases in advance   
